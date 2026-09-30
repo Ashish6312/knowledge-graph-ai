@@ -1,0 +1,46 @@
+product_id,name,brand_id,category_id,vendor_id,price_inr,description
+P001,iPhone 16 128GB,B001,C001,V001,79900,"6.1-inch smartphone with A18 chip and 48MP camera."
+P002,iPhone 15 128GB,B001,C001,V001,69900,"6.1-inch smartphone with A16 Bionic chip and USB-C."
+P003,Galaxy S24 256GB,B002,C001,V002,74999,"Flagship Android phone with Galaxy AI features."
+P004,Galaxy A55 5G,B002,C001,V002,39999,"Mid-range 5G phone with an IP67 rating and AMOLED display."
+P005,Galaxy M35 5G,B002,C001,V002,18999,Budget 5G phone with a 6000 mAh battery.
+P006,iPad Air 11 M2,B001,C009,V001,59900,11-inch tablet with the M2 chip.
+P007,Galaxy Tab S9 FE,B002,C009,V001,36999,"10.9-inch tablet with S Pen included."
+P008,Tab M11,B004,C009,V001,14999,11-inch tablet for study and streaming.
+P009,MacBook Air 13 M3,B001,C002,V009,114900,"13-inch laptop with the M3 chip and 18-hour battery."
+P010,ThinkPad E14 Gen 6,B004,C002,V009,72990,14-inch business laptop with Intel Core Ultra.
+P011,IdeaPad Slim 5,B004,C002,V009,64990,Thin and light laptop with an OLED display.
+P012,Legion 5 Gaming,B004,C002,V009,124990,Gaming laptop with RTX 4060 graphics.
+P013,Galaxy Book4,B002,C002,V009,69990,15.6-inch laptop that syncs with Galaxy phones.
+P014,AirPods Pro 2,B001,C003,V003,24900,Wireless earbuds with active noise cancellation.
+P015,Galaxy Buds FE,B002,C003,V003,6999,Wireless earbuds with active noise cancellation.
+P016,Airdopes 141,B003,C003,V003,1299,Budget wireless earbuds with 42-hour playback.
+P017,Rockerz 450,B003,C003,V002,1499,On-ear Bluetooth headphones.
+P018,Stone 1200 Speaker,B003,C003,V003,3999,Portable Bluetooth speaker with 14 W output.
+P019,TAT1209 Earbuds,B005,C003,V003,1999,Compact wireless earbuds.
+P020,Nirvana Ion,B003,C003,V002,2999,Wireless earbuds with 120-hour playback.
+P021,HD9252 Air Fryer,B005,C004,V004,8999,4.1-litre air fryer with Rapid Air technology.
+P022,HR3705 Hand Blender,B005,C004,V004,2795,"300 W hand blender, handy for banana shakes and purees."
+P023,HL7756 Mixer Grinder,B005,C004,V004,3999,750 W mixer grinder with three jars.
+P024,Svachh Pressure Cooker 5L,B006,C004,V004,2395,5-litre aluminium pressure cooker with a spillage-control lid.
+P025,Iris Mixer Grinder 750W,B006,C004,V004,3299,750 W mixer grinder with four jars.
+P026,PIC 20 Induction Cooktop,B006,C004,V004,2799,1600 W induction cooktop with preset Indian menus.
+P027,Electric Kettle 1.5L,B006,C004,V004,999,1.5-litre stainless steel electric kettle.
+P028,Aloo Bhujia 400g,B007,C005,V005,110,Spicy potato noodle namkeen.
+P029,Kerala Chips 200g,B007,C005,V005,90,Crispy Kerala-style banana chips fried in coconut oil.
+P030,Moong Dal 400g,B007,C005,V005,115,Salted fried moong dal namkeen.
+P031,Soan Papdi 500g,B007,C005,V005,150,Flaky cardamom-flavoured sweet.
+P032,Navratan Mix 400g,B007,C005,V005,120,Mixed namkeen with nuts and raisins.
+P033,Butter 500g,B008,C006,V006,285,Pasteurised salted butter.
+P034,Pure Ghee 1L,B008,C006,V006,675,Pure cow ghee in a 1-litre pack.
+P035,Cheese Slices 200g,B008,C006,V006,145,Processed cheese slices (10 slices).
+P036,Kool Kesar 6-Pack,B008,C006,V006,180,Saffron-flavoured milk drink (6 x 180 ml).
+P037,Velocity Nitro 3,B009,C007,V007,11999,Cushioned daily running shoe.
+P038,Softride Pro,B009,C007,V007,4999,Lightweight running shoe with soft foam.
+P039,Smash V2 Sneakers,B009,C007,V007,3999,Casual leather sneakers.
+P040,Trail Runner Shoes,B010,C007,V007,2999,Grippy trail and hiking shoes.
+P041,Trailblazer 45L Rucksack,B010,C008,V008,3499,45-litre trekking rucksack with a rain cover.
+P042,Nylon Daypack 30L,B010,C008,V008,1499,30-litre everyday backpack.
+P043,Evo Laptop Backpack,B010,C008,V008,2199,Backpack with a padded 15.6-inch laptop sleeve.
+P044,Phase Backpack,B009,C008,V008,1499,22-litre casual backpack.
+P045,Challenger Duffel,B009,C008,V008,2499,Gym and travel duffel bag.

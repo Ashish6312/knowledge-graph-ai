@@ -1,0 +1,26 @@
+customer_id,name,email,city,state
+CU001,Aarav Sharma,aarav.sharma@example.com,Bengaluru,Karnataka
+CU002,Ananya Iyer,ananya.iyer@example.com,Chennai,Tamil Nadu
+CU003,Rohan Mehta,rohan.mehta@example.com,Ahmedabad,Gujarat
+CU004,Priya Nair,priya.nair@example.com,Kochi,Kerala
+CU005,Vihaan Gupta,vihaan.gupta@example.com,New Delhi,Delhi
+CU006,Diya Reddy,diya.reddy@example.com,Hyderabad,Telangana
+CU007,Arjun Menon,arjun.menon@example.com,Thiruvananthapuram,Kerala
+CU008,Isha Kapoor,isha.kapoor@example.com,Mumbai,Maharashtra
+CU009,Kabir Singh,kabir.singh@example.com,Chandigarh,Chandigarh
+CU010,Meera Joshi,meera.joshi@example.com,Pune,Maharashtra
+CU011,Aditya Rao,aditya.rao@example.com,Mysuru,Karnataka
+CU012,Sneha Das,sneha.das@example.com,Kolkata,West Bengal
+CU013,Rahul Verma,rahul.verma@example.com,Lucknow,Uttar Pradesh
+CU014,Kavya Pillai,kavya.pillai@example.com,Coimbatore,Tamil Nadu
+CU015,Nikhil Kulkarni,nikhil.kulkarni@example.com,Nagpur,Maharashtra
+CU016,Tanvi Shah,tanvi.shah@example.com,Surat,Gujarat
+CU017,Karan Malhotra,karan.malhotra@example.com,Gurugram,Haryana
+CU018,Pooja Mishra,pooja.mishra@example.com,Bhopal,Madhya Pradesh
+CU019,Siddharth Bose,siddharth.bose@example.com,Kolkata,West Bengal
+CU020,Riya Agarwal,riya.agarwal@example.com,Jaipur,Rajasthan
+CU021,Manav Jain,manav.jain@example.com,Indore,Madhya Pradesh
+CU022,Zoya Khan,zoya.khan@example.com,Lucknow,Uttar Pradesh
+CU023,Dev Patel,dev.patel@example.com,Vadodara,Gujarat
+CU024,Neha Chopra,neha.chopra@example.com,Noida,Uttar Pradesh
+CU025,Om Hegde,om.hegde@example.com,Mangaluru,Karnataka
